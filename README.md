@@ -12,4 +12,4 @@
 
 ## Connect with me:
 
-[![Email](https://hackmd.io/_uploads/SkVDGiCmT.png)](mailto:kucherenko.ul.ana@gmail.com)   [![LinkedIn](https://hackmd.io/_uploads/rJdB8oR7p.png)](https://www.linkedin.com/in/uliana-kucherenko)
+[![Email](/icons/gmail.png)](mailto:kucherenko.ul.ana@gmail.com)    [![LinkedIn](icons/linkedIn.png)](https://www.linkedin.com/in/uliana-kucherenko)
