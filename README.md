@@ -4,11 +4,13 @@
 
 * **Languages**: JavaScript, TypeScript
 * **Web Technologies**: HTML/CSS, SASS/SCSS, styled-components
-* **State Management**: Redux, Redux-toolkit, RTK
+* **Libraries & Frameworks**: React.js, Vue.js, Next.js
+* **State Management**: Redux, Redux-toolkit, RTK, Vuex
 * **APIs**: JSON, AJAX, REST Api
-* **Frameworks**: Next.js
 * **UI Libraries**: Material UI, Bootstrap
 * **Testing**: Jest, React Testing Library
+
+## Projects:
 
 ## Connect with me:
 
