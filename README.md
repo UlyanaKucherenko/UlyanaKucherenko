@@ -12,6 +12,24 @@
 
 ## Projects:
 
+
+### (Pet-Project) Dog-App ⏳in developing.
+
+- **Tech**: TypeScript, React.js, RTK-query, Jest, material-ui, storybook, prettier, eslint
+
+### (Pet-Project) Digital-Agency
+
+- **Description:** The dynamic website is designed for adaptation across diverse devices. This project with multiple pages, including Home, About, and Portfolio.
+- **Tech**:  Html, Css, TypeScript, React.js, prettier, eslint
+- **GH Repository:** [Link](https://github.com/UlyanaKucherenko/Digital-Agency)
+
+### (Pet-Project) Weather-App
+
+- **Description:** Web application - with intuitive design based on React.js and Weatherbit.io. Provides the ability to view the weather by city.
+- **Tech**: TypeScript, React.js, redux-toolkit, Styled-components, prettier, eslint, api-Weatherbit.io
+- **GH Repository:** [Link](https://github.com/UlyanaKucherenko/weather-app)
+
+
 ## Connect with me:
 
 [![Email](/icons/gmail.png)](mailto:kucherenko.ul.ana@gmail.com)    [![LinkedIn](icons/linkedIn.png)](https://www.linkedin.com/in/uliana-kucherenko)
