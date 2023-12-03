@@ -1,6 +1,6 @@
 ## Summary
 
-🚀 Hi there! I’m a Middle Front-end Developer with hands-on experience in web development. My passion lies in crafting seamless and user-friendly interfaces. I have a strong background in **React.js**, and I bring proficiency in a range of technologies and tools:
+🚀 Hi there! I’m a Front-end Developer with hands-on experience in web development. My passion lies in crafting seamless and user-friendly interfaces. I have a strong background in **React.js**, and I bring proficiency in a range of technologies and tools:
 
 * **Languages**: JavaScript, TypeScript
 * **Web Technologies**: HTML/CSS, SASS/SCSS, styled-components
@@ -13,7 +13,7 @@
 ## Projects:
 
 
-### (Pet-Project) Dog-App ⏳in developing.
+### (Pet-Project) ⏳in developing.
 
 - **Tech**: TypeScript, React.js, RTK-query, Jest, material-ui, storybook, prettier, eslint
 
