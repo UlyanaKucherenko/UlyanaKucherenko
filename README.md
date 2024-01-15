@@ -17,16 +17,27 @@
 
 - **Tech**: TypeScript, React.js, RTK-query, Jest, material-ui, storybook, prettier, eslint
 
+
+### Talkie
+
+- **Description:**  The "Talkie" is a real-time chat application that allows users to join discussions on various topics.
+Participated in the project as a mentor.
+- **Tech**:  Html, Css, TypeScript, React.js, prettier, eslint, soket.io
+- **DEMO:** [Link](https://talkiehub.netlify.app)
+- **GH Repository:** [Link](https://github.com/UlyanaKucherenko/Talkie)
+
 ### (Pet-Project) Digital-Agency
 
 - **Description:** The dynamic website is designed for adaptation across diverse devices. This project with multiple pages, including Home, About, and Portfolio.
 - **Tech**:  Html, Css, TypeScript, React.js, prettier, eslint
+- **DEMO:** [Link](digital-agency-pp.netlify.app)
 - **GH Repository:** [Link](https://github.com/UlyanaKucherenko/Digital-Agency)
 
 ### (Pet-Project) Weather-App
 
 - **Description:** Web application - with intuitive design based on React.js and Weatherbit.io. Provides the ability to view the weather by city.
 - **Tech**: TypeScript, React.js, redux-toolkit, Styled-components, prettier, eslint, api-Weatherbit.io
+- - **DEMO:** [Link](https://u-react-weather.netlify.app)
 - **GH Repository:** [Link](https://github.com/UlyanaKucherenko/weather-app)
 
 
