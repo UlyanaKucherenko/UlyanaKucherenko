@@ -37,7 +37,7 @@ Participated in the project as a mentor.
 
 - **Description:** Web application - with intuitive design based on React.js and Weatherbit.io. Provides the ability to view the weather by city.
 - **Tech**: TypeScript, React.js, redux-toolkit, Styled-components, prettier, eslint, api-Weatherbit.io
-- - **DEMO:** [Link](https://u-react-weather.netlify.app)
+- **DEMO:** [Link](https://u-react-weather.netlify.app)
 - **GH Repository:** [Link](https://github.com/UlyanaKucherenko/weather-app)
 
 
