@@ -30,7 +30,7 @@ Participated in the project as a mentor.
 
 - **Description:** The dynamic website is designed for adaptation across diverse devices. This project with multiple pages, including Home, About, and Portfolio.
 - **Tech**:  Html, Css, TypeScript, React.js, prettier, eslint
-- **DEMO:** [Link](digital-agency-pp.netlify.app)
+- **DEMO:** [Link](https://digital-agency-pp.netlify.app)
 - **GH Repository:** [Link](https://github.com/UlyanaKucherenko/Digital-Agency)
 
 ### (Pet-Project) Weather-App
